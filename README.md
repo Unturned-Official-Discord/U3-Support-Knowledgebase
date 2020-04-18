@@ -7,6 +7,7 @@ The purpose of this repository is to guide self sufficient users and support sta
 ---
 
 * [Logs Files](LogFiles.md)
+* [Verify Game Files](verifyGameFiles.md) 
 
 ## Frequent issues
 
