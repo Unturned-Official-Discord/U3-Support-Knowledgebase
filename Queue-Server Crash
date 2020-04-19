@@ -1,11 +1,13 @@
 # Joining a server with crashing problems
 
-### To fix the problem follow the steps down below.
+###Getting stuck in Queue or having connection problems to a server, 
+is mainly caused by having a considerably amount of workshop mods added.
 
-1.
-2.
-3.
+#### To fix the problem follow the steps down below.
 
+1. Open steam, and navigate to the workshop.
+2. Write "Unturned" in the search bar, of the workshop.
+3. When you're in the workshop, scroll down until you see your Profile logo, and click on the dropdown named "Your files".
+4. Then click "Subscribed items". Now you should be able to hover over the mods you have, and unsubscribe to them.
 
-
-This is lakos, dont dare to touch ; )
+In some cases this method does not work. if so please ask Gamesupport over at the Unturned discord.
