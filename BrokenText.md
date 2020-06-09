@@ -4,6 +4,6 @@
 ## Solution
 A simple way to fix the broken text is to just leave the area that has too many placards/signs/flags. You can also either destroy them or remove some of the text written on them to prevent that area from causing this bug.- 
 
-###Examples of this glitch
+## Examples of this glitch
 ![Example](https://cdn.discordapp.com/attachments/330713386679664646/719602727226834964/text_broken.png "Example in the main menu")
 ![Example2](https://cdn.discordapp.com/attachments/330713386679664646/719603955554058300/Untitled.png "Example In-game")
