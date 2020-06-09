@@ -15,7 +15,7 @@ The purpose of this repository is to guide self sufficient users and support sta
 
 ---
 
-* [Broken text](https://github.com/Unturned-Official-Discord/U3-Support-Knowledgebase/pull/15)
+* [Broken text](BrokenText.md)
 
 ## Advanced Configurations
 
