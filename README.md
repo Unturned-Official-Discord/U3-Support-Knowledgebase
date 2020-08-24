@@ -16,6 +16,7 @@ The purpose of this repository is to guide self sufficient users and support sta
 
 ---
 
+* [Broken text](BrokenText.md)
 
 ## Advanced Configurations
 
